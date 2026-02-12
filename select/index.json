@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "base_track": "To Be Alive",
+  "base_artist": "HACHI",
+  "createdAt": "2026-02-12T09:36:00.517809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's a Great Day to Be Alive",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/01_It's_a_Great_Day_to_Be_Alive_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's A Great Day To Be Alive (Album Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/02_It's_A_Great_Day_To_Be_Alive_(Album_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good To Be Alive",
+      "artist": "Matthew Dear",
+      "has_synced": false,
+      "path": "select/03_Good_To_Be_Alive_Matthew_Dear.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "To Be Alive",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/04_To_Be_Alive_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "To Be Alive Again",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/05_To_Be_Alive_Again_Journey.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "To Be Alive",
+      "artist": "Rina Sawayama",
+      "has_synced": true,
+      "path": "select/06_To_Be_Alive_Rina_Sawayama.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Glad To Be Alive",
+      "artist": "Julie Doiron",
+      "has_synced": true,
+      "path": "select/07_Glad_To_Be_Alive_Julie_Doiron.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good to Be Alive",
+      "artist": "PVRIS",
+      "has_synced": true,
+      "path": "select/08_Good_to_Be_Alive_PVRIS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Glad To Be Alive",
+      "artist": "Stefanie Heinzmann",
+      "has_synced": true,
+      "path": "select/09_Glad_To_Be_Alive_Stefanie_Heinzmann.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "To Be Alive (Hep Yadda)",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/10_To_Be_Alive_(Hep_Yadda)_Yes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good to Be Alive",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/11_Good_to_Be_Alive_Skillet.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good To Be Alive",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/12_Good_To_Be_Alive_Skillet.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's Something to Be Alive",
+      "artist": "Dreamers",
+      "has_synced": true,
+      "path": "select/13_It's_Something_to_Be_Alive_Dreamers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Born To Be Alive",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/14_Born_To_Be_Alive_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Born To Be Alive (Explicit)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/15_Born_To_Be_Alive_(Explicit)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's A Great Day To Be Alive",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/16_It's_A_Great_Day_To_Be_Alive_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good To Be Alive",
+      "artist": "The Score",
+      "has_synced": true,
+      "path": "select/17_Good_To_Be_Alive_The_Score.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Born to Be Alive",
+      "artist": "Patrick Hernandez",
+      "has_synced": false,
+      "path": "select/18_Born_to_Be_Alive_Patrick_Hernandez.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Born to Be Wild",
+      "artist": "Steppenwolf",
+      "has_synced": true,
+      "path": "select/19_Born_to_Be_Wild_Steppenwolf.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "It's Hard to Be a Saint in the City",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/20_It's_Hard_to_Be_a_Saint_in_the_City_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Meant to Be",
+      "artist": "Bebe Rexha feat. Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/21_Meant_to_Be_Bebe_Rexha_feat._Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Meant to Be (feat. Florida Georgia Line)",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/22_Meant_to_Be_(feat._Florida_Georgia_Line)_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "(If Loving You Is Wrong) I Don't Want To Be Right",
+      "artist": "Barbara Mandrell",
+      "has_synced": false,
+      "path": "select/23_(If_Loving_You_Is_Wrong)_I_Don't_Want_To_Be_Right_Barbara_Mandrell.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Better Than It Used to Be",
+      "artist": "Rhett Akins",
+      "has_synced": true,
+      "path": "select/24_Better_Than_It_Used_to_Be_Rhett_Akins.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Better Than It Used To Be (Album Version)",
+      "artist": "Rhett Akins",
+      "has_synced": true,
+      "path": "select/25_Better_Than_It_Used_To_Be_(Album_Version)_Rhett_Akins.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Born To Be Blue",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/26_Born_To_Be_Blue_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Born To Be With You",
+      "artist": "Sonny James",
+      "has_synced": false,
+      "path": "select/27_Born_To_Be_With_You_Sonny_James.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "He Didn't Have to Be",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/28_He_Didn't_Have_to_Be_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "He Didn't Have to Be",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/29_He_Didn't_Have_to_Be_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "He Left a Lot to Be Desired",
+      "artist": "Ricochet",
+      "has_synced": true,
+      "path": "select/30_He_Left_a_Lot_to_Be_Desired_Ricochet.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I Don't Want To Be A Memory",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/31_I_Don't_Want_To_Be_A_Memory_Exile.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "I Guess You Had To Be There",
+      "artist": "Craig Morgan",
+      "has_synced": false,
+      "path": "select/32_I_Guess_You_Had_To_Be_There_Craig_Morgan.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "I Tell It Like It Used To Be",
+      "artist": "T. Graham Brown",
+      "has_synced": true,
+      "path": "select/33_I_Tell_It_Like_It_Used_To_Be_T._Graham_Brown.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "I Tell It Like It Used To Be (Album Version)",
+      "artist": "T. Graham Brown",
+      "has_synced": false,
+      "path": "select/34_I_Tell_It_Like_It_Used_To_Be_(Album_Version)_T._Graham_Brown.txt"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "It Ain't Cool To Be Crazy About You",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/35_It_Ain't_Cool_To_Be_Crazy_About_You_George_Strait.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "To Be Alive",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_To_Be_Alive_HACHI.txt"
+    }
+  ]
+}
